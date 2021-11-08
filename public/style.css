@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.cage {
+  background-color: lightcyan;
+  height: 400px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.manual {
+  display: flex;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.interruptor {
+  height: 40px;
+  margin: 0 1rem;
+}
+
+.bombillo {
+  height: 80px;
+}
+
+.bombillo-auto {
+  height: 80px;
+}
